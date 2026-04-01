@@ -1,0 +1,60 @@
+com.example.glove.app-ui-graphics-release-0 C:\Users\ks991\.gradle\caches\8.13\transforms\076035d441807006038c015e8c40455c\transformed\ui-graphics-release\res
+com.example.glove.app-runtime-saveable-release-1 C:\Users\ks991\.gradle\caches\8.13\transforms\08dddb2e60dba21de6cf7bd5b30f3525\transformed\runtime-saveable-release\res
+com.example.glove.app-lifecycle-viewmodel-2.7.0-2 C:\Users\ks991\.gradle\caches\8.13\transforms\0b0721124c672a093721509d69d667db\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.glove.app-ui-geometry-release-3 C:\Users\ks991\.gradle\caches\8.13\transforms\0e17fe834bfd0ba6e5f77497176076ad\transformed\ui-geometry-release\res
+com.example.glove.app-material3-release-4 C:\Users\ks991\.gradle\caches\8.13\transforms\11d767e10950725e2dd530299d99e35e\transformed\material3-release\res
+com.example.glove.app-lifecycle-runtime-2.7.0-5 C:\Users\ks991\.gradle\caches\8.13\transforms\12cef3368a858f02c728668d0efa813c\transformed\lifecycle-runtime-2.7.0\res
+com.example.glove.app-datastore-preferences-1.0.0-6 C:\Users\ks991\.gradle\caches\8.13\transforms\1a478cc140e2e6be3ee459e4167a1f92\transformed\datastore-preferences-1.0.0\res
+com.example.glove.app-navigation-runtime-ktx-2.7.7-7 C:\Users\ks991\.gradle\caches\8.13\transforms\1a94649a5a8109db6e359c668730e523\transformed\navigation-runtime-ktx-2.7.7\res
+com.example.glove.app-foundation-release-8 C:\Users\ks991\.gradle\caches\8.13\transforms\1b4b192cce40ca1e0c2d250ea2058b18\transformed\foundation-release\res
+com.example.glove.app-savedstate-1.2.1-9 C:\Users\ks991\.gradle\caches\8.13\transforms\207e3f582b58a0fbb91abef7c1524be5\transformed\savedstate-1.2.1\res
+com.example.glove.app-savedstate-ktx-1.2.1-10 C:\Users\ks991\.gradle\caches\8.13\transforms\261948aa820e7419ef85a8b04970df42\transformed\savedstate-ktx-1.2.1\res
+com.example.glove.app-navigation-runtime-2.7.7-11 C:\Users\ks991\.gradle\caches\8.13\transforms\35936ef9d2667ced6accdeeaeee2d1c0\transformed\navigation-runtime-2.7.7\res
+com.example.glove.app-navigation-common-ktx-2.7.7-12 C:\Users\ks991\.gradle\caches\8.13\transforms\3c53b68186f2f3a3f1c66e5363ce54c5\transformed\navigation-common-ktx-2.7.7\res
+com.example.glove.app-ui-tooling-data-release-13 C:\Users\ks991\.gradle\caches\8.13\transforms\40dbc8be4bc84ec028c7a103be416315\transformed\ui-tooling-data-release\res
+com.example.glove.app-profileinstaller-1.3.0-14 C:\Users\ks991\.gradle\caches\8.13\transforms\44ca61de9032c93e10168a0b5c404eec\transformed\profileinstaller-1.3.0\res
+com.example.glove.app-lifecycle-viewmodel-ktx-2.7.0-15 C:\Users\ks991\.gradle\caches\8.13\transforms\4d4a5fbb1422210bdc3a4e098e97dfe4\transformed\lifecycle-viewmodel-ktx-2.7.0\res
+com.example.glove.app-material-icons-core-release-16 C:\Users\ks991\.gradle\caches\8.13\transforms\4fa56d0834fde4d3ecd36091aef045fa\transformed\material-icons-core-release\res
+com.example.glove.app-navigation-common-2.7.7-17 C:\Users\ks991\.gradle\caches\8.13\transforms\51b9bb72785fc17ccc45c5c3331893f1\transformed\navigation-common-2.7.7\res
+com.example.glove.app-emoji2-1.3.0-18 C:\Users\ks991\.gradle\caches\8.13\transforms\55ae6a2120c9c9b49b3e0c1fd45f0cdf\transformed\emoji2-1.3.0\res
+com.example.glove.app-ui-release-19 C:\Users\ks991\.gradle\caches\8.13\transforms\580717ec09f1b2a20207c5a5bbfe4588\transformed\ui-release\res
+com.example.glove.app-lifecycle-viewmodel-compose-2.7.0-20 C:\Users\ks991\.gradle\caches\8.13\transforms\5aff34669653e7edf22bf842e7405595\transformed\lifecycle-viewmodel-compose-2.7.0\res
+com.example.glove.app-material-release-21 C:\Users\ks991\.gradle\caches\8.13\transforms\5b723cdcf1abeb6ce1642f87cea349d0\transformed\material-release\res
+com.example.glove.app-core-1.12.0-22 C:\Users\ks991\.gradle\caches\8.13\transforms\65f364c2f5dd4ee2d922929d79e9879b\transformed\core-1.12.0\res
+com.example.glove.app-material-ripple-release-23 C:\Users\ks991\.gradle\caches\8.13\transforms\6689d4d7b80b649779d52e5fe7aa1e80\transformed\material-ripple-release\res
+com.example.glove.app-animation-release-24 C:\Users\ks991\.gradle\caches\8.13\transforms\73ac9cd7132665cf36f8cf45ed305824\transformed\animation-release\res
+com.example.glove.app-datastore-1.0.0-25 C:\Users\ks991\.gradle\caches\8.13\transforms\83b84673d03a9b61d529e19d5f8d8906\transformed\datastore-1.0.0\res
+com.example.glove.app-animation-core-release-26 C:\Users\ks991\.gradle\caches\8.13\transforms\909aba1d0037716b90f0f84084811511\transformed\animation-core-release\res
+com.example.glove.app-foundation-layout-release-27 C:\Users\ks991\.gradle\caches\8.13\transforms\9255e610a4b85015c4683713dbe4f4f3\transformed\foundation-layout-release\res
+com.example.glove.app-activity-compose-1.8.2-28 C:\Users\ks991\.gradle\caches\8.13\transforms\9361cf88585d52b7d9086722ff462df6\transformed\activity-compose-1.8.2\res
+com.example.glove.app-lifecycle-livedata-core-2.7.0-29 C:\Users\ks991\.gradle\caches\8.13\transforms\987a7c14cbafa42333990b16740aee7d\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.glove.app-room-runtime-2.6.1-30 C:\Users\ks991\.gradle\caches\8.13\transforms\a1228473c5ff4f26d4de80cda1243f34\transformed\room-runtime-2.6.1\res
+com.example.glove.app-room-ktx-2.6.1-31 C:\Users\ks991\.gradle\caches\8.13\transforms\a1d89e5d8fd95f7b283ddf2d2a96dcb4\transformed\room-ktx-2.6.1\res
+com.example.glove.app-core-ktx-1.12.0-32 C:\Users\ks991\.gradle\caches\8.13\transforms\a5ef84b6f6c88cddbc5772c4c16edfa8\transformed\core-ktx-1.12.0\res
+com.example.glove.app-lifecycle-runtime-ktx-2.7.0-33 C:\Users\ks991\.gradle\caches\8.13\transforms\a9d3cf9dd146fa627f10fd4657d444b1\transformed\lifecycle-runtime-ktx-2.7.0\res
+com.example.glove.app-navigation-compose-2.7.7-34 C:\Users\ks991\.gradle\caches\8.13\transforms\b06a7e3c809e3b092d1d2b101b8e035e\transformed\navigation-compose-2.7.7\res
+com.example.glove.app-ui-util-release-35 C:\Users\ks991\.gradle\caches\8.13\transforms\b5f008823abc8cde73eedfd1958fea9e\transformed\ui-util-release\res
+com.example.glove.app-sqlite-framework-2.4.0-36 C:\Users\ks991\.gradle\caches\8.13\transforms\be716e71e4c2d2e99d83b804f5bd70c6\transformed\sqlite-framework-2.4.0\res
+com.example.glove.app-lifecycle-process-2.7.0-37 C:\Users\ks991\.gradle\caches\8.13\transforms\c5822829ed0fd3a6e01a2914cafb6b75\transformed\lifecycle-process-2.7.0\res
+com.example.glove.app-customview-poolingcontainer-1.0.0-38 C:\Users\ks991\.gradle\caches\8.13\transforms\c950b771eb901aa8d730af4c617e5400\transformed\customview-poolingcontainer-1.0.0\res
+com.example.glove.app-startup-runtime-1.1.1-39 C:\Users\ks991\.gradle\caches\8.13\transforms\c982b6f3b10e3db9c6b873e04a80640f\transformed\startup-runtime-1.1.1\res
+com.example.glove.app-activity-ktx-1.8.2-40 C:\Users\ks991\.gradle\caches\8.13\transforms\cb897a02d93b10205cdd32f3bc285cda\transformed\activity-ktx-1.8.2\res
+com.example.glove.app-graphics-path-1.0.0-beta02-41 C:\Users\ks991\.gradle\caches\8.13\transforms\ccbfb16059a1bba5e3cf9cabc7132fb0\transformed\graphics-path-1.0.0-beta02\res
+com.example.glove.app-ui-text-release-42 C:\Users\ks991\.gradle\caches\8.13\transforms\d05384e1c6c9a820aa5afec97b8af442\transformed\ui-text-release\res
+com.example.glove.app-ui-unit-release-43 C:\Users\ks991\.gradle\caches\8.13\transforms\d15ec9d642339b3fb3084947dca63750\transformed\ui-unit-release\res
+com.example.glove.app-runtime-release-44 C:\Users\ks991\.gradle\caches\8.13\transforms\dc2c10e2196d27c96ec7123aec368daa\transformed\runtime-release\res
+com.example.glove.app-core-runtime-2.2.0-45 C:\Users\ks991\.gradle\caches\8.13\transforms\e237959e64124a1da2be6a5a73202449\transformed\core-runtime-2.2.0\res
+com.example.glove.app-lifecycle-viewmodel-savedstate-2.7.0-46 C:\Users\ks991\.gradle\caches\8.13\transforms\e2c9b216c0845400d49578124145d544\transformed\lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.glove.app-ui-tooling-preview-release-47 C:\Users\ks991\.gradle\caches\8.13\transforms\e6c6e32f80189487a76bfb5b20a85f8a\transformed\ui-tooling-preview-release\res
+com.example.glove.app-annotation-experimental-1.4.0-48 C:\Users\ks991\.gradle\caches\8.13\transforms\e923f7ff76b7ba5712d0cb4a81823de9\transformed\annotation-experimental-1.4.0\res
+com.example.glove.app-sqlite-2.4.0-49 C:\Users\ks991\.gradle\caches\8.13\transforms\f174711e0682f9d6050e2ff3c2c1f87e\transformed\sqlite-2.4.0\res
+com.example.glove.app-activity-1.8.2-50 C:\Users\ks991\.gradle\caches\8.13\transforms\f7cb9a5deacbe0744058ed578d88ba14\transformed\activity-1.8.2\res
+com.example.glove.app-ui-tooling-release-51 C:\Users\ks991\.gradle\caches\8.13\transforms\f996973fb55c007591b93a81e7a53d52\transformed\ui-tooling-release\res
+com.example.glove.app-ui-test-manifest-1.7.0-alpha01-52 C:\Users\ks991\.gradle\caches\8.13\transforms\ff2f05736406e7aaa881b5ad20f77316\transformed\ui-test-manifest-1.7.0-alpha01\res
+com.example.glove.app-resValues-53 D:\Project GLOVE\app\build\generated\res\resValues\debug
+com.example.glove.app-updated_navigation_xml-54 D:\Project GLOVE\app\build\generated\updated_navigation_xml\debug
+com.example.glove.app-packageDebugResources-55 D:\Project GLOVE\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.glove.app-packageDebugResources-56 D:\Project GLOVE\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.glove.app-debug-57 D:\Project GLOVE\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.glove.app-debug-58 D:\Project GLOVE\app\src\debug\res
+com.example.glove.app-main-59 D:\Project GLOVE\app\src\main\res
